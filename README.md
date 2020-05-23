@@ -1,6 +1,6 @@
 # One page website design
 
-![Image of homeage of this repository](https://github.com/nasim-007/10minuteschool/blob/master/homerobi.png)
+![Image of homeage of this repository](https://github.com/nasim-007/webdesign/blob/master/webdesign.png)
 
 ### How to run
 Clone or download this repository and open index.html with a browser. Let's see magic! It's totally static no back-end.
